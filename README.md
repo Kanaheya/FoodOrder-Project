@@ -1,9 +1,9 @@
 # FoodOrder-Project
  Throughout the Internship program, we focused on creating a comprehensive, real-world application: a Food Delivery Application (akin to a Swiggy clone). This project was designed to simulate a professional development environment, incorporating a variety of advanced technologies and development practices.
  
- ** Technologies Used:  **
+ **Technologies Used:**
  
- 1)** Frontend:** Built with *React.js*, which was used to create a dynamic and responsive user interface. React's component-based architecture facilitated the development of reusable UI elements and streamlined state management.
+ 1) **Frontend:** Built with *React.js*, which was used to create a dynamic and responsive user interface. React's component-based architecture facilitated the development of reusable UI elements and streamlined state management.
  2) **Backend:** Developed using *Express.js* on *Node.js*, which managed server-side logic, handled HTTP requests, and interacted with the database. Express.js simplified routing and middleware implementation, enabling efficient request handling and data processing.
  3) **Database:** Utilized *MongoDB* to store and manage data related to users, restaurants, menus, and orders. MongoDB’s flexible schema allowed for easy adjustments as the project evolved.   - *Integration:* Employed a combination of these technologies to ensure seamless communication between the front end and back end, delivering a cohesive user experience
 
